@@ -1,0 +1,1 @@
+=IF(AND(Mobile_Usage < Previous_Mobile_Usage, Overspeeding < Previous_Overspeeding, ABC < Previous_ABC), "You have focused on improving these areas", "You need to focus on reducing mobile usage, overspeeding, and ABC points")
